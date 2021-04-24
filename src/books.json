@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "name": "Lost Horizon",
+    "picture": "images/adventure1.jpg",
+    "ID": 0,
+    "Type": "Adventure",
+    "Author": "James Hilton"
+  },
+  {
+    "id": 1,
+    "name": "Bird Box",
+    "picture": "images/horror1.jpg",
+    "ID": 1,
+    "Type": "Horror",
+    "Author": "Josh Malerman"
+  },
+  {
+    "id": 2,
+    "name": "The Proposal",
+    "picture": "images/romance1.jpg",
+    "ID": 2,
+    "Type": "Romantic",
+    "Author": "Jasmine Guillory"
+  },
+  {
+    "id": 3,
+    "name": "Burnt Offerings",
+    "picture": "images/horror2.jpg",
+    "ID": 3,
+    "Type": "Horror",
+    "Author": "Robert Marasco"
+  },
+  {
+    "id": 4,
+    "name": "Moby-Dick",
+    "picture": "images/adventure2.jpg",
+    "ID": 4,
+    "Type": "Adventure",
+    "Author": "Nathaniel Philbrick"
+  },
+  {
+    "id": 5,
+    "name": "Vision in White",
+    "picture": "images/romance2.jpg",
+    "ID": 5,
+    "Type": "Romantic",
+    "Author": "Nora Roberts"
+  },
+  {
+    "id": 6,
+    "name": "One of Us is Lying",
+    "picture": "images/murder3.jpg",
+    "ID": 6,
+    "Type": "Murder",
+    "Author": "Karen M. Mcmanns"
+  },
+  {
+    "id": 7,
+    "name": "Six Suspects",
+    "picture": "images/murder2.jpg",
+    "ID": 7,
+    "Type": "Murder",
+    "Author": "Vikas Swarup"
+  },
+  {
+    "id": 8,
+    "name": "Amatka",
+    "picture": "images/sifi1.jpg",
+    "ID": 8,
+    "Type": "Science Fiction",
+    "Author": "Karin Tidbeck"
+  },
+  {
+    "id": 9,
+    "name": "The Dark Lake",
+    "picture": "images/murder1.jpg",
+    "ID": 9,
+    "Type": "Murder",
+    "Author": "Sarah Bailey"
+  }
+  
+]
